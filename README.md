@@ -20,7 +20,7 @@
 </h1>
 
 <div align="center">
-  <img src="./src/full_logo_colour.png" width="50%"/>
+  <img src="./src/full_logo_colour.png" width="70%"/>
 </div>
 
 ---
@@ -28,6 +28,18 @@
 ### 👩‍💻 About Me :
 
 I am a Junior Full Stack Software Developer  from the East Midlands, UK <img src="https://media.giphy.com/media/fVJn7sPHp0T0kzMnIk/giphy.gif" width="30">
+
+- I am a dedicated career changer
+  
+- I have recently completed an intensive and comprehesive [Northcoders](https://northcoders.com) bootcamp to gain a multitude of technical skills
+  
+- I am keen to further my technical knowledge and skillbase whenever I can
+  
+- I'm seeking employment where I can put to use my newfound skills and talents
+
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-laumack-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laumack/) or [email me](mailto:lauren.a.mcintyre@gmail.com)
+
+  
 
 
 
