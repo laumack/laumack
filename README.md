@@ -1,5 +1,3 @@
-<!-- # laumack -->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="150"/>
 </div>
@@ -10,12 +8,12 @@
   </a>
 </div>
 
-<div id="counter" align = "center">
+<div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=laumack&style=flat-square&color=blue" alt="profile views counter"/>
 </div>
 
 <h1 align="center">
-  hello world!
+  &nbsp hello world!
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkzcjllYTU5NzhoeXY4YjVhcjNrajFjdnNlZnQ0NDh0NGQydWxmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -59,7 +57,16 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" title="Expo-CLI" alt="Expo-CLI icon" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest icon" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git icon" width="40" height="40">&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png?w=826&t=st=1688506573~exp=1688507173~hmac=63d80ac654b2d9ca44c2f49be167db219049f8958771795add638653c0da4b6c" title="GitHub" alt="GitHub icon" width="40" height="40">&nbsp and more to come...
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png?w=826&t=st=1688506573~exp=1688507173~hmac=63d80ac654b2d9ca44c2f49be167db219049f8958771795add638653c0da4b6c" title="GitHub" alt="GitHub icon" width="40" height="40">
+  <p>and more to come...</p>
 </div>
 
 ---
+
+<section align="center">
+  You are viewing this page in
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="30" height="30">
+  mode
+</section>
