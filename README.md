@@ -19,6 +19,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkzcjllYTU5NzhoeXY4YjVhcjNrajFjdnNlZnQ0NDh0NGQydWxmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="./src/full_logo_colour.png" width="50%"/>
+</div>
+
+---
+
+### 👩‍💻 About Me :
+
+I am a Junior Full Stack Software Developer  from the East Midlands, UK <img src="https://media.giphy.com/media/fVJn7sPHp0T0kzMnIk/giphy.gif" width="30">
 
 
 
