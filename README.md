@@ -38,7 +38,8 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
 
 ---
 
-## 🧰 Technical Skills :  
+## 🧰 Technical Skills :
+🛠️ *this area is currently under construction* 🛠️
 <br/>
 
 <section width="100vw">
@@ -77,10 +78,17 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
   <p>and more to come...</p>
 </div>
 
+<section align="center">
+  You are viewing this page in
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="30" height="30">
+  mode
+</section>
+
 ---
 
-<!--
-### I support :
+### 💞 I support :
 
 <div>
   <img src="https://media.giphy.com/media/KfliFZ82M9QaiUX7HK/giphy.gif" title="LGBTQ+" alt="LGBTQ+" width="80">&nbsp;
@@ -94,12 +102,3 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
 </div>
 
 ---
--->
-
-<section align="center">
-  You are viewing this page in
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="30" height="30">
-  mode
-</section>
