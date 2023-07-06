@@ -90,15 +90,14 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
 
 ### 💞 I support :
 
-<div>
+<section align="center">
   <img src="https://media.giphy.com/media/KfliFZ82M9QaiUX7HK/giphy.gif" title="LGBTQ+" alt="LGBTQ+" width="80">&nbsp;
   <img src="https://media.giphy.com/media/EahaopXZCJ2sKwsmhH/giphy.gif" title="Neurodiversity" alt="Celebrate neurodiversity infinity sticker" width="80">&nbsp;
   <img src="https://media.giphy.com/media/IgFsnUwn3iy4jPxqAH/giphy.gif" title="Represention matters" alt="Representation matters sticker with different skin colour puzzle pieces" width="90">&nbsp;
   <img src="https://media.giphy.com/media/HP10SszuDUiciuoyVk/giphy.gif" title="Disability rights" alt="Disability rights are civil rights sticker" width="80">&nbsp;
   <img src="https://media.giphy.com/media/IIJDsyTMg2lx5SMV3b/giphy.gif" title="Invisible disabilities" alt="Invisible disability club sticker" width="80">&nbsp;
   <img src="https://media.giphy.com/media/PmpvwY2BsPChxUYRE9/giphy.gif" title="Mental health matters" alt="Mental health matters sticker" width="80">&nbsp;
-  <img src="https://media.giphy.com/media/QVaPzTEqLiRkKgQGDQ/giphy.gif" title="Love everyone" alt="Love everyone sticker" width="80">
-  
-</div>
+  <img src="https://media.giphy.com/media/QVaPzTEqLiRkKgQGDQ/giphy.gif" title="Love everyone" alt="Love everyone sticker" width="80"> 
+</section>
 
 ---
