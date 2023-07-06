@@ -90,11 +90,11 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
 
 <section align="center">
 <a href="https://github.com/laumack#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=laumack&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laumack&show_icons=true&theme=graywhite&custom_title=laumack&#39;s%20GitHub%20Stats#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/laumack#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=laumack&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laumack&show_icons=true&theme=city_lights&custom_title=laumack&#39;s%20GitHub%20Stats#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 </section>
 
