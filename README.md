@@ -4,7 +4,7 @@
 
 <section id="badges" align="center">
   <a href="https://www.linkedin.com/in/laumack/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Visit laumack's LinkedIn profile" alt="LinkedIn Badge" />
   </a>
 </section>
 
@@ -28,13 +28,13 @@
 I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img src="https://media.giphy.com/media/fVJn7sPHp0T0kzMnIk/giphy.gif" width="40" vertical-align="middle">
 
 - 🔀 I am a dedicated career changer
-- 🥾 I have recently completed an intensive and comprehensive [Northcoders](https://northcoders.com) bootcamp to gain a multitude of technical skills
+- 🥾 I have recently completed an intensive and comprehensive [Northcoders](https://northcoders.com "Visit the Northcoders website") bootcamp to gain a multitude of technical skills
 - 🧠 I am keen to further my technical knowledge and skill base whenever I can
 - 💪 I'm seeking employment where I can put to use my newfound skills and talents
 
 - 📬 How to reach me:
-  - [![Linkedin Badge](https://img.shields.io/badge/-laumack-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laumack/)
-  - [📨 email me](mailto:lauren.a.mcintyre@gmail.com)
+  - [![Linkedin Badge](https://img.shields.io/badge/-laumack-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laumack/ "Visit laumack's LinkedIn profile")
+  - [📨 email me](mailto:lauren.a.mcintyre@gmail.com "Send an email to lauren.a.mcintyre@gmail.com")
 
 ---
 
