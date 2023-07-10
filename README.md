@@ -122,11 +122,16 @@ I am a **Junior Full Stack Software Developer** from the East Midlands, UK <img 
   <img src="https://media.giphy.com/media/PmpvwY2BsPChxUYRE9/giphy.gif" 
     title="Mental health matters" alt="Mental health matters sticker" width="80"> &nbsp;
   <img src="https://media.giphy.com/media/QVaPzTEqLiRkKgQGDQ/giphy.gif" 
-    title="Love everyone" alt="Love everyone sticker" width="80"> 
+    title="Love everyone" alt="Love everyone sticker" width="80"> &nbsp;
+  <img src="https://media.giphy.com/media/XIcwSGz96MuwglQoWy/giphy.gif"
+    title="There is no planet B" alt="No planet B sticker" width="80">
 </section>
 
 ---
 
 #### Credits :
 
-GitHub stats and language card designed by @[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+> Technical icons from [`devicon`](https://github.com/devicons/devicon "Visit the devicon GitHub repo") <br>
+> GitHub stats and language card designed by [`anuraghazra`](https://github.com/anuraghazra/github-readme-stats "Visit anuraghazra's GitHub repo") <br>
+> Stickers from [`giphy.com`](https://giphy.com "Visit giphy.com")</p>
+
